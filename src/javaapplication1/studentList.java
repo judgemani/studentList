@@ -2,6 +2,8 @@ package javaapplication1;
 
 
 public class studentList {
+    //mani
+    
     public static void main(String[]args){
     Student s1 = new Student("mani","s1");
     Student[] studentList = new Student[3];
