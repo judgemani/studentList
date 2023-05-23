@@ -11,7 +11,7 @@ package javaapplication1;
 class Student {
     private String sname;
     private String sID;
-
+//mani123
     public Student(String sname, String sID) {
         this.sname = sname;
         this.sID = sID;
