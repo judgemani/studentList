@@ -20,7 +20,7 @@ class Student {
     public String getSname() {
         return sname;
     }
-
+//comment ar 9;40
     public void setSname(String sname) {
         this.sname = sname;
     }
