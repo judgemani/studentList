@@ -14,7 +14,7 @@ public class studentList {
     for(int i=0; i < studentList.length; i++){
         System.out.println(studentList[i].getSname());
     }
-    
+    //pull comment at 9:51
     //comment at 9:50
     }
 }
